@@ -1,1 +1,3 @@
-# Make your shoe class here!
+shoe class
+def shoe (type)
+end
